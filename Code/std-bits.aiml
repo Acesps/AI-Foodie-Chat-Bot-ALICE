@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category><pattern>WHERE CAN I GET A DRINK *</pattern>
+<template>You can get beverages in AMUL, Cafeteria, Juice Shop inside Mess-I, Yummpy's, Juice Shop in Mess-II, Juice Shop in CP, C3 and Bits and Bytes. </template>
+</category>
+
+<category><pattern>I WANT SOMETHING TO DRINK *</pattern>
+<template>You can get beverages in AMUL, Cafeteria, Juice Shop inside Mess-I, Yummpy's, Juice Shop in Mess-II, Juice Shop in CP, C3 and Bits and Bytes. </template>
+</category>
+
+<category><pattern>WHERE CAN I GET SOMETHING TO DRINK *</pattern>
+<template>You can get beverages in AMUL, Cafeteria, Juice Shop inside Mess-I, Yummpy's, Juice Shop in Mess-II, Juice Shop in CP, C3 and Bits and Bytes. </template>
+</category>
+
+<category><pattern>DRINK *</pattern>
+<template>You can get beverages in AMUL, Cafeteria, Juice Shop inside Mess-I, Yummpy's, Juice Shop in Mess-II, Juice Shop in CP, C3 and Bits and Bytes. </template>
+</category>
+
+<category><pattern>* DRINK</pattern>
+<template>You can get beverages in AMUL, Cafeteria, Juice Shop inside Mess-I, Yummpy's, Juice Shop in Mess-II, Juice Shop in CP, C3 and Bits and Bytes. </template>
+</category>
+
+<category><pattern>WHAT IS TASTY * IN BITS </pattern>
+<template>You should try out the shakes in C3.</template>
+</category>
+
+<category><pattern>EAT *</pattern>
+<template>There's many eateries in BITS, you should try out Bits and Bytes.</template>
+</category>
+
+<category><pattern>* EAT</pattern>
+<template>There's many eateries in BITS, you should try out Bits and Bytes.</template>
+</category>
+
+<category><pattern>PIZZA *</pattern>
+<template> <srai>EAT *</srai> </template>
+</category>
+
+<category><pattern>* PIZZA</pattern>
+<template> <srai>EAT *</srai> </template>
+</category>
+
+<category><pattern>WHERE CAN I EAT *</pattern>
+<template>There's many eateries in BITS, you should try out Bits and Bytes.</template>
+</category>
+
+<category><pattern>WHERE CAN I GET SOMETHING TO EAT*</pattern>
+<template>There's many eateries in BITS, you should try out Bits and Bytes.</template>
+</category>
+
+<category><pattern>WHAT CAN I EAT IN *</pattern>
+<template>There's many eateries in BITS, you should try out Bits and Bytes.</template>
+</category>
+<category><pattern>WHERE CAN YOU EAT *</pattern>
+<template>There's many eateries in BITS, you should try out Bits and Bytes.</template>
+</category>
+<category><pattern>WHERE CAN I GET SOMETHING TO EAT*</pattern>
+<template>There's many eateries in BITS, you should try out Bits and Bytes.</template>
+</category>
+<category><pattern>WHERE CAN I GET FOOD *</pattern>
+<template>There's many eateries in BITS, you should try out Bits and Bytes.</template>
+</category>
+
+<category><pattern>FOOD *</pattern>
+<template>There's many eateries in BITS, you should try out Bits and Bytes.</template>
+</category>
+<category><pattern>* FOOD</pattern>
+<template>There's many eateries in BITS, you should try out Bits and Bytes.</template>
+</category>
+
+<category><pattern>* FOOD *</pattern>
+<template>There's many eateries in BITS, you should try out Bits and Bytes.</template>
+</category>
+<category><pattern>SUGGEST * TO EAT*</pattern>
+<template>There's many eateries in BITS, you should try out Bits and Bytes.</template>
+</category>
+<category><pattern>WHERE DO YOU GET GOOD FOOD *</pattern>
+<template>There's many eateries in BITS, you should try out Bits and Bytes.</template>
+</category>
+<category><pattern>WHERE CAN I GET DRUNK *</pattern>
+<template>Sorry, BITS is a dry campus.</template>
+</category>
+<category><pattern>WHERE DO YOU GET CHEAP FOOD*</pattern>
+<template>There's many eateries in BITS, you should try out Bits and Bytes.</template>
+</category>
+<category><pattern>WHERE CAN I GET CHEAP FOOD *</pattern>
+<template>There's many eateries in BITS, you should try out MESS.</template>
+</category>
+<category><pattern>I AM HUNGRY *</pattern>
+<template>There's many eateries in BITS, you should try out Bits and Bytes.</template>
+</category>
+<category><pattern>WHERE CAN I FILL MY HUNGER *</pattern>
+<template>There's many eateries in BITS, you should try out Bits and Bytes.</template>
+</category>
+<category><pattern>WHERE CAN I HAVE DINNER *</pattern>
+<template>There's many eateries in BITS, you should try out Bits and Bytes.</template>
+</category>
+<category><pattern>WHERE CAN I HAVE LUNCH *</pattern>
+<template>There's many eateries in BITS, you should try out Bits and Bytes.</template>
+</category>
+<category><pattern>WHERE CAN I HAVE BREAKFAST *</pattern>
+<template>There's many eateries in BITS, you should try out Bits and Bytes.</template>
+</category>
+<category><pattern>BREAKFAST *</pattern>
+<template>There's many eateries in BITS, you should try out Bits and Bytes.</template>
+</category>
+<category><pattern>* BREAKFAST</pattern>
+<template>There's many eateries in BITS, you should try out Bits and Bytes.</template>
+</category>
+<category><pattern>* LUNCH</pattern>
+<template>There's many eateries in BITS, you should try out Bits and Bytes.</template>
+</category>
+<category><pattern>LUNCH *</pattern>
+<template>There's many eateries in BITS, you should try out Bits and Bytes.</template>
+</category>
+<category><pattern>DINNER *</pattern>
+<template>There's many eateries in BITS, you should try out Bits and Bytes.</template>
+</category>
+<category><pattern>* DINNER</pattern>
+<template>There's many eateries in BITS, you should try out Bits and Bytes.</template>
+</category>
+<category><pattern>SNACK *</pattern>
+<template>There's many eateries in BITS, you should try out Bits and Bytes.</template>
+</category>
+<category><pattern>* SNACK</pattern>
+<template>There's many eateries in BITS, you should try out Bits and Bytes.</template>
+</category>
+<category><pattern>* SNACKS</pattern>
+<template>There's many eateries in BITS, you should try out Bits and Bytes.</template>
+</category>
+<category><pattern>SNACKS *</pattern>
+<template>There's many eateries in BITS, you should try out Bits and Bytes.</template>
+</category>
+</aiml>
